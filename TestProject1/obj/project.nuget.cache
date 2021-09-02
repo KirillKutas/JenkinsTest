@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "C+ZpIVi+5tjYQRlo/HYHFvZarP5Rj2nKhMN0JX35uVqfKqDiYCRmZ0Oq9eyxdqWjPSpz7uGi0xYBSXZgFX9kpA==",
+  "dgSpecHash": "Wnpc0G2S+sjAUJE153BUbPy3r5GPdwrD9dMYdNH5Fl3lqH6u1n7ZYXxPHSRkxTsMsbe2eV6yNL3U0qbjBXv0PA==",
   "success": true,
   "projectFilePath": "E:\\Work\\JenkinsTest\\WebApplication1\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
@@ -109,6 +109,7 @@
     "C:\\Users\\kutas\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
     "C:\\Users\\kutas\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
     "C:\\Users\\kutas\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
+    "C:\\Users\\kutas\\.nuget\\packages\\xunit.runner.console\\2.4.1\\xunit.runner.console.2.4.1.nupkg.sha512",
     "C:\\Users\\kutas\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
   ],
   "logs": []
