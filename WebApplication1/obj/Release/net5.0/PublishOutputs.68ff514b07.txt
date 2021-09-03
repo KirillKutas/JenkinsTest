@@ -1,0 +1,11 @@
+E:\Work\JenkinsTest\WebApplication1\WebApplication1\bin\Release\net5.0\publish\WebApplication1.exe
+E:\Work\JenkinsTest\WebApplication1\WebApplication1\bin\Release\net5.0\publish\appsettings.Development.json
+E:\Work\JenkinsTest\WebApplication1\WebApplication1\bin\Release\net5.0\publish\appsettings.json
+E:\Work\JenkinsTest\WebApplication1\WebApplication1\bin\Release\net5.0\publish\WebApplication1.dll
+E:\Work\JenkinsTest\WebApplication1\WebApplication1\bin\Release\net5.0\publish\WebApplication1.deps.json
+E:\Work\JenkinsTest\WebApplication1\WebApplication1\bin\Release\net5.0\publish\WebApplication1.runtimeconfig.json
+E:\Work\JenkinsTest\WebApplication1\WebApplication1\bin\Release\net5.0\publish\WebApplication1.pdb
+E:\Work\JenkinsTest\WebApplication1\WebApplication1\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+E:\Work\JenkinsTest\WebApplication1\WebApplication1\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\Work\JenkinsTest\WebApplication1\WebApplication1\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Work\JenkinsTest\WebApplication1\WebApplication1\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

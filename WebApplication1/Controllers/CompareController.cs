@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System.Security.Policy;
+using Microsoft.AspNetCore.Mvc;
 using WebApplication1.Services;
 
 namespace WebApplication1.Controllers
@@ -18,6 +19,13 @@ namespace WebApplication1.Controllers
         public bool Compare([FromQuery] int a, int b)
         {
             return _service.Compare(a, b);
+        }
+
+        [HttpGet]
+        [Route("Test")]
+        public string Test()
+        {
+            return "new method";
         }
     }
 }
